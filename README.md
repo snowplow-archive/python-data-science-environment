@@ -22,10 +22,10 @@ Start ipython
 
 ```
 guest$ cd python-data-science
-ipython...
+guest$ ipython notebook
 ```
 
-And then navigate to `http://...` on the host
+And then navigate to `http://localhost:8888` on the host
 
 ## Notes
 
