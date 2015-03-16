@@ -1,0 +1,8 @@
+To get started:
+
+Once the VM is up and running, you should be able to:
+
+1. ssh onto the virtual machine
+2. start ipython
+
+For details view the README on https://github.com/snowplow/python-data-science-environment
