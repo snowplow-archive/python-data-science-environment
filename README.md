@@ -1,6 +1,6 @@
 # Python Data Science environment
 
-VM with complete R (RStudio) environment. Setup an R environment without any faff.
+VM with complete Python data science without any faff.
 
 ## Quickstart
 
