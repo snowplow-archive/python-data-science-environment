@@ -21,11 +21,13 @@ host$ vagrant ssh
 Start ipython
 
 ```
-guest$ cd python-data-science
-guest$ ipython notebook
+guest$ /home/vagrant/python-data-science/bin/ipython notebook --ip=0.0.0.0 --no-browser
 ```
 
 And then navigate to `http://localhost:8888` on the host
+
+Simple!
+
 
 ## Notes
 
